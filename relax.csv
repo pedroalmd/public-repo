@@ -1,0 +1,201 @@
+artist,track,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Gabrielle Aplin,Home,0.403,0.29,2,-10.262,1,0.0328,0.757,0,0.0972,0.248,139.482,audio_features,0OwoAzOM3ULaLoiYpC5axn,spotify:track:0OwoAzOM3ULaLoiYpC5axn,https://api.spotify.com/v1/tracks/0OwoAzOM3ULaLoiYpC5axn,https://api.spotify.com/v1/audio-analysis/0OwoAzOM3ULaLoiYpC5axn,249387,4
+David Kushner,Daylight,0.508,0.43,2,-9.475,0,0.0335,0.83,0.000441,0.093,0.324,130.09,audio_features,1odExI7RdWc4BT515LTAwj,spotify:track:1odExI7RdWc4BT515LTAwj,https://api.spotify.com/v1/tracks/1odExI7RdWc4BT515LTAwj,https://api.spotify.com/v1/audio-analysis/1odExI7RdWc4BT515LTAwj,212954,4
+Bruno Mars,Talking to the Moon,0.498,0.59,1,-4.721,0,0.032,0.511,0,0.107,0.0784,145.867,audio_features,1wVuPmvt6AWvTL5W2GJnzZ,spotify:track:1wVuPmvt6AWvTL5W2GJnzZ,https://api.spotify.com/v1/tracks/1wVuPmvt6AWvTL5W2GJnzZ,https://api.spotify.com/v1/audio-analysis/1wVuPmvt6AWvTL5W2GJnzZ,217867,4
+Rich,Lucid,0.555,0.494,9,-9.928,1,0.0395,0.842,9.88e-05,0.112,0.281,75.001,audio_features,0pYXn0MXaY1SAlzO4cf12f,spotify:track:0pYXn0MXaY1SAlzO4cf12f,https://api.spotify.com/v1/tracks/0pYXn0MXaY1SAlzO4cf12f,https://api.spotify.com/v1/audio-analysis/0pYXn0MXaY1SAlzO4cf12f,147200,3
+Sophie B. Hawkins,Free Myself,0.738,0.399,2,-7.169,1,0.0283,0.794,0,0.09,0.36,109.952,audio_features,1RddZYOe0kbDTDkHC5L5xz,spotify:track:1RddZYOe0kbDTDkHC5L5xz,https://api.spotify.com/v1/tracks/1RddZYOe0kbDTDkHC5L5xz,https://api.spotify.com/v1/audio-analysis/1RddZYOe0kbDTDkHC5L5xz,271040,4
+golden dust,have you ever loved somebody so much,0.816,0.0464,4,-23.358,0,0.083,0.981,0.509,0.101,0.203,116.051,audio_features,64clR8xPCIOCWTHBYqfLL6,spotify:track:64clR8xPCIOCWTHBYqfLL6,https://api.spotify.com/v1/tracks/64clR8xPCIOCWTHBYqfLL6,https://api.spotify.com/v1/audio-analysis/64clR8xPCIOCWTHBYqfLL6,116250,4
+Billie Eilish,lovely (with Khalid),0.351,0.296,4,-10.109,0,0.0333,0.934,0,0.095,0.12,115.284,audio_features,0u2P5u6lvoDfwTYjAADbn4,spotify:track:0u2P5u6lvoDfwTYjAADbn4,https://api.spotify.com/v1/tracks/0u2P5u6lvoDfwTYjAADbn4,https://api.spotify.com/v1/audio-analysis/0u2P5u6lvoDfwTYjAADbn4,200186,4
+Billie Eilish,Happier Than Ever,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,audio_features,4RVwu0g32PAqgUiJoXsdF8,spotify:track:4RVwu0g32PAqgUiJoXsdF8,https://api.spotify.com/v1/tracks/4RVwu0g32PAqgUiJoXsdF8,https://api.spotify.com/v1/audio-analysis/4RVwu0g32PAqgUiJoXsdF8,298899,3
+Michele Nobler,Cap Gris Nez,0.248,0.0505,0,-24.413,0,0.0371,0.989,0.932,0.071,0.0398,75.356,audio_features,4NvE2MZJ86tAZbB35FQpq6,spotify:track:4NvE2MZJ86tAZbB35FQpq6,https://api.spotify.com/v1/tracks/4NvE2MZJ86tAZbB35FQpq6,https://api.spotify.com/v1/audio-analysis/4NvE2MZJ86tAZbB35FQpq6,229569,4
+will hyde,i still love u. (‭+1.818.643.6885‬),0.477,0.264,9,-8.734,0,0.0419,0.848,0,0.108,0.301,134.253,audio_features,4FAMzeF7NdMJ0s4YgF6wSu,spotify:track:4FAMzeF7NdMJ0s4YgF6wSu,https://api.spotify.com/v1/tracks/4FAMzeF7NdMJ0s4YgF6wSu,https://api.spotify.com/v1/audio-analysis/4FAMzeF7NdMJ0s4YgF6wSu,206877,5
+Patrick Watson,Je te laisserai des mots,0.303,0.187,2,-16.757,1,0.0356,0.989,0.489,0.101,0.213,132.731,audio_features,0V5cvmTKsYmF5FmGGEAfmS,spotify:track:0V5cvmTKsYmF5FmGGEAfmS,https://api.spotify.com/v1/tracks/0V5cvmTKsYmF5FmGGEAfmS,https://api.spotify.com/v1/audio-analysis/0V5cvmTKsYmF5FmGGEAfmS,160853,4
+Tom Odell,Another Love,0.445,0.537,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,0.131,122.769,audio_features,3JvKfv6T31zO0ini8iNItO,spotify:track:3JvKfv6T31zO0ini8iNItO,https://api.spotify.com/v1/tracks/3JvKfv6T31zO0ini8iNItO,https://api.spotify.com/v1/audio-analysis/3JvKfv6T31zO0ini8iNItO,244360,4
+Gabrielle Aplin,Please Don't Say You Love Me,0.479,0.541,0,-9.862,1,0.0545,0.737,0,0.108,0.321,85.994,audio_features,2PIlBukQ6limukVR8Ubb5o,spotify:track:2PIlBukQ6limukVR8Ubb5o,https://api.spotify.com/v1/tracks/2PIlBukQ6limukVR8Ubb5o,https://api.spotify.com/v1/audio-analysis/2PIlBukQ6limukVR8Ubb5o,181400,4
+Winter Aid,The Wisp Sings,0.521,0.0889,4,-19.457,1,0.0507,0.988,0.182,0.0965,0.0479,115.43,audio_features,68RI4I6SKm57SxjG06OYvN,spotify:track:68RI4I6SKm57SxjG06OYvN,https://api.spotify.com/v1/tracks/68RI4I6SKm57SxjG06OYvN,https://api.spotify.com/v1/audio-analysis/68RI4I6SKm57SxjG06OYvN,313253,4
+golden dust,could be,0.863,0.197,11,-15.036,0,0.46,0.835,0.0176,0.305,0.325,114.142,audio_features,1K9LcHUxnV0H0oWui6b9LI,spotify:track:1K9LcHUxnV0H0oWui6b9LI,https://api.spotify.com/v1/tracks/1K9LcHUxnV0H0oWui6b9LI,https://api.spotify.com/v1/audio-analysis/1K9LcHUxnV0H0oWui6b9LI,103158,4
+ALIRZA,Drowning to Hell,0.535,0.242,6,-11.786,0,0.0308,0.925,0,0.1,0.167,69.936,audio_features,1KFOeFyJYOSJ7jd1gdAnEp,spotify:track:1KFOeFyJYOSJ7jd1gdAnEp,https://api.spotify.com/v1/tracks/1KFOeFyJYOSJ7jd1gdAnEp,https://api.spotify.com/v1/audio-analysis/1KFOeFyJYOSJ7jd1gdAnEp,169822,4
+neeto,please come back - slowed + reverb,0.772,0.145,2,-17.358,0,0.0656,0.797,0.533,0.109,0.143,110.281,audio_features,6NnAacdNsmfjRyAXgBTrxM,spotify:track:6NnAacdNsmfjRyAXgBTrxM,https://api.spotify.com/v1/tracks/6NnAacdNsmfjRyAXgBTrxM,https://api.spotify.com/v1/audio-analysis/6NnAacdNsmfjRyAXgBTrxM,122155,5
+Virginio Aiello,Winter Snow - 2022 Version,0.361,0.038,7,-23.376,0,0.0482,0.985,0.952,0.102,0.091,96.368,audio_features,7H5BlEQ71IqHFMt9ZraCFd,spotify:track:7H5BlEQ71IqHFMt9ZraCFd,https://api.spotify.com/v1/tracks/7H5BlEQ71IqHFMt9ZraCFd,https://api.spotify.com/v1/audio-analysis/7H5BlEQ71IqHFMt9ZraCFd,160638,4
+Oscar Pascasio,Waiting for You (Solo Piano),0.587,0.136,3,-18.737,1,0.0311,0.985,0.875,0.111,0.356,95.966,audio_features,6nLwifI2Y4zUHS5sC4M3Ag,spotify:track:6nLwifI2Y4zUHS5sC4M3Ag,https://api.spotify.com/v1/tracks/6nLwifI2Y4zUHS5sC4M3Ag,https://api.spotify.com/v1/audio-analysis/6nLwifI2Y4zUHS5sC4M3Ag,247187,3
+golden dust,raining outside,0.732,0.159,8,-16.311,1,0.112,0.902,0.0153,0.141,0.278,82.986,audio_features,5Un1yN5CYQhLlltjetoiag,spotify:track:5Un1yN5CYQhLlltjetoiag,https://api.spotify.com/v1/tracks/5Un1yN5CYQhLlltjetoiag,https://api.spotify.com/v1/audio-analysis/5Un1yN5CYQhLlltjetoiag,119096,4
+Virginio Aiello,Pigalle,0.365,0.0185,5,-30.812,1,0.0398,0.993,0.905,0.113,0.0588,67.163,audio_features,4R4kZjd2w4DJaW6bTWcgwI,spotify:track:4R4kZjd2w4DJaW6bTWcgwI,https://api.spotify.com/v1/tracks/4R4kZjd2w4DJaW6bTWcgwI,https://api.spotify.com/v1/audio-analysis/4R4kZjd2w4DJaW6bTWcgwI,124451,4
+Labrinth,I’m Tired (with Zendaya) - Bonus Track,0.375,0.133,0,-10.624,0,0.0352,0.651,0,0.0695,0.192,131.721,audio_features,6LtHYDgYHRCHoKK3snfr2w,spotify:track:6LtHYDgYHRCHoKK3snfr2w,https://api.spotify.com/v1/tracks/6LtHYDgYHRCHoKK3snfr2w,https://api.spotify.com/v1/audio-analysis/6LtHYDgYHRCHoKK3snfr2w,187944,4
+Billie Eilish,i love you,0.421,0.131,0,-18.435,1,0.0382,0.952,0.00453,0.109,0.12,137.446,audio_features,6CcJMwBtXByIz4zQLzFkKc,spotify:track:6CcJMwBtXByIz4zQLzFkKc,https://api.spotify.com/v1/tracks/6CcJMwBtXByIz4zQLzFkKc,https://api.spotify.com/v1/audio-analysis/6CcJMwBtXByIz4zQLzFkKc,291796,4
+Billie Eilish,party favor,0.826,0.188,0,-12.181,1,0.0883,0.882,2.83e-06,0.103,0.205,130.022,audio_features,3WxmlTZ85sCYFnuIXmUAEe,spotify:track:3WxmlTZ85sCYFnuIXmUAEe,https://api.spotify.com/v1/tracks/3WxmlTZ85sCYFnuIXmUAEe,https://api.spotify.com/v1/audio-analysis/3WxmlTZ85sCYFnuIXmUAEe,204770,4
+James Walker,Somewhere Between,0.295,0.157,1,-15.297,1,0.038,0.918,0,0.0788,0.135,80.555,audio_features,0NNbqN0LnZlAtFzxGKqZeG,spotify:track:0NNbqN0LnZlAtFzxGKqZeG,https://api.spotify.com/v1/tracks/0NNbqN0LnZlAtFzxGKqZeG,https://api.spotify.com/v1/audio-analysis/0NNbqN0LnZlAtFzxGKqZeG,295750,4
+PTM,Heaven Above,0.767,0.715,3,-2.408,0,0.0835,0.498,0,0.138,0.441,85.976,audio_features,5wbpPL1IPWnRUsF9LK9PAT,spotify:track:5wbpPL1IPWnRUsF9LK9PAT,https://api.spotify.com/v1/tracks/5wbpPL1IPWnRUsF9LK9PAT,https://api.spotify.com/v1/audio-analysis/5wbpPL1IPWnRUsF9LK9PAT,233132,4
+Toosii,Favorite Song,0.816,0.367,2,-9.354,1,0.0588,0.314,0,0.0987,0.413,116.035,audio_features,1SRw5p2lVAi7RGlHEmZg66,spotify:track:1SRw5p2lVAi7RGlHEmZg66,https://api.spotify.com/v1/tracks/1SRw5p2lVAi7RGlHEmZg66,https://api.spotify.com/v1/audio-analysis/1SRw5p2lVAi7RGlHEmZg66,208630,4
+Angelo Nicola Giuliano,Tetraktys,0.39,0.0383,7,-28.079,0,0.0428,0.992,0.891,0.111,0.177,69.053,audio_features,7ykl9h5A71j6AErzEUxDNH,spotify:track:7ykl9h5A71j6AErzEUxDNH,https://api.spotify.com/v1/tracks/7ykl9h5A71j6AErzEUxDNH,https://api.spotify.com/v1/audio-analysis/7ykl9h5A71j6AErzEUxDNH,148661,4
+CLAY,poison - demo,0.546,0.547,7,-7.793,1,0.0469,0.374,0.00021,0.122,0.638,170.026,audio_features,76y9rYVLGK4Ob2qaruXmhC,spotify:track:76y9rYVLGK4Ob2qaruXmhC,https://api.spotify.com/v1/tracks/76y9rYVLGK4Ob2qaruXmhC,https://api.spotify.com/v1/audio-analysis/76y9rYVLGK4Ob2qaruXmhC,163653,3
+B O K E H,withdrawals from your body,0.27,0.424,9,-10.771,0,0.0382,0.022,0.0116,0.092,0.11,169.7,audio_features,1eHLqhU19w2M9QRHt59G7N,spotify:track:1eHLqhU19w2M9QRHt59G7N,https://api.spotify.com/v1/tracks/1eHLqhU19w2M9QRHt59G7N,https://api.spotify.com/v1/audio-analysis/1eHLqhU19w2M9QRHt59G7N,293883,4
+Bruno Mars,When I Was Your Man,0.612,0.28,0,-8.648,1,0.0434,0.932,0,0.088,0.387,72.795,audio_features,0nJW01T7XtvILxQgC5J7Wh,spotify:track:0nJW01T7XtvILxQgC5J7Wh,https://api.spotify.com/v1/tracks/0nJW01T7XtvILxQgC5J7Wh,https://api.spotify.com/v1/audio-analysis/0nJW01T7XtvILxQgC5J7Wh,213827,4
+M83,Wait,0.426,0.228,2,-10.552,1,0.0322,0.198,0.13,0.0832,0.0822,147.994,audio_features,01Q3OyB05mLgH01fpdAMPP,spotify:track:01Q3OyB05mLgH01fpdAMPP,https://api.spotify.com/v1/tracks/01Q3OyB05mLgH01fpdAMPP,https://api.spotify.com/v1/audio-analysis/01Q3OyB05mLgH01fpdAMPP,343253,4
+The Oh Hellos,"Soldier, Poet, King",0.347,0.758,8,-7.753,1,0.0706,0.031,0.000659,0.109,0.484,117.959,audio_features,3xtiXNDbSKxy20I7D6vFUg,spotify:track:3xtiXNDbSKxy20I7D6vFUg,https://api.spotify.com/v1/tracks/3xtiXNDbSKxy20I7D6vFUg,https://api.spotify.com/v1/audio-analysis/3xtiXNDbSKxy20I7D6vFUg,165674,4
+Coldplay,Yellow,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,audio_features,3AJwUDP919kvQ9QcozQPxg,spotify:track:3AJwUDP919kvQ9QcozQPxg,https://api.spotify.com/v1/tracks/3AJwUDP919kvQ9QcozQPxg,https://api.spotify.com/v1/audio-analysis/3AJwUDP919kvQ9QcozQPxg,266773,4
+Labrinth,Forever,0.563,0.459,4,-7.781,0,0.0292,0.92,0.724,0.11,0.197,79.983,audio_features,6potEImiklXkwD9qFzpu15,spotify:track:6potEImiklXkwD9qFzpu15,https://api.spotify.com/v1/tracks/6potEImiklXkwD9qFzpu15,https://api.spotify.com/v1/audio-analysis/6potEImiklXkwD9qFzpu15,202536,4
+Ariana Grande,Moonlight,0.626,0.412,9,-7.339,1,0.0292,0.417,3.55e-06,0.048,0.209,102.169,audio_features,5A7CwBNDUhvLWuSU5oJEh3,spotify:track:5A7CwBNDUhvLWuSU5oJEh3,https://api.spotify.com/v1/tracks/5A7CwBNDUhvLWuSU5oJEh3,https://api.spotify.com/v1/audio-analysis/5A7CwBNDUhvLWuSU5oJEh3,202360,3
+Montana Janel,Healed Freestyle,0.446,0.384,4,-11.656,1,0.23,0.614,0.00356,0.106,0.538,173.136,audio_features,19AFtGL1B0mhe2YUnxPa2O,spotify:track:19AFtGL1B0mhe2YUnxPa2O,https://api.spotify.com/v1/tracks/19AFtGL1B0mhe2YUnxPa2O,https://api.spotify.com/v1/audio-analysis/19AFtGL1B0mhe2YUnxPa2O,182828,4
+Rosa Linn,SNAP,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,audio_features,76OGwb5RA9h4FxQPT33ekc,spotify:track:76OGwb5RA9h4FxQPT33ekc,https://api.spotify.com/v1/tracks/76OGwb5RA9h4FxQPT33ekc,https://api.spotify.com/v1/audio-analysis/76OGwb5RA9h4FxQPT33ekc,179551,4
+m3gan,Dreams,0.314,0.145,6,-17.272,1,0.0345,0.932,0.029,0.068,0.211,139.517,audio_features,2LaKf1uX8JwR9ktl3ps9HW,spotify:track:2LaKf1uX8JwR9ktl3ps9HW,https://api.spotify.com/v1/tracks/2LaKf1uX8JwR9ktl3ps9HW,https://api.spotify.com/v1/audio-analysis/2LaKf1uX8JwR9ktl3ps9HW,182051,4
+m3gan,Take on Me - Slowed,0.279,0.0664,8,-19.479,0,0.0425,0.966,0.971,0.149,0.2,118.089,audio_features,1Ft2NuMsg3Q1sAKIeJoJds,spotify:track:1Ft2NuMsg3Q1sAKIeJoJds,https://api.spotify.com/v1/tracks/1Ft2NuMsg3Q1sAKIeJoJds,https://api.spotify.com/v1/audio-analysis/1Ft2NuMsg3Q1sAKIeJoJds,200288,4
+Felipe FR Music,My Heart Will Go On - from Titanic,0.508,0.0681,1,-21.48,0,0.0537,0.982,0.943,0.0987,0.182,179.954,audio_features,2nthEHZpUpxhIILMb4PHyD,spotify:track:2nthEHZpUpxhIILMb4PHyD,https://api.spotify.com/v1/tracks/2nthEHZpUpxhIILMb4PHyD,https://api.spotify.com/v1/audio-analysis/2nthEHZpUpxhIILMb4PHyD,243000,4
+d4vd,Here With Me,0.574,0.469,4,-8.209,1,0.0254,0.534,9.21e-05,0.128,0.288,132.023,audio_features,78Sw5GDo6AlGwTwanjXbGh,spotify:track:78Sw5GDo6AlGwTwanjXbGh,https://api.spotify.com/v1/tracks/78Sw5GDo6AlGwTwanjXbGh,https://api.spotify.com/v1/audio-analysis/78Sw5GDo6AlGwTwanjXbGh,242485,4
+Coldplay,Paradise,0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,audio_features,6nek1Nin9q48AVZcWs9e9D,spotify:track:6nek1Nin9q48AVZcWs9e9D,https://api.spotify.com/v1/tracks/6nek1Nin9q48AVZcWs9e9D,https://api.spotify.com/v1/audio-analysis/6nek1Nin9q48AVZcWs9e9D,278719,4
+Felipe FR Music,River flows in you,0.193,0.187,9,-19.25,1,0.0461,0.959,0.95,0.111,0.219,71.927,audio_features,05Aa3bJiIwdRkjhUrpaJ0u,spotify:track:05Aa3bJiIwdRkjhUrpaJ0u,https://api.spotify.com/v1/tracks/05Aa3bJiIwdRkjhUrpaJ0u,https://api.spotify.com/v1/audio-analysis/05Aa3bJiIwdRkjhUrpaJ0u,176000,4
+Ariana Grande,pov,0.487,0.534,0,-5.664,0,0.0555,0.36,0,0.1,0.173,131.798,audio_features,3UoULw70kMsiVXxW0L3A33,spotify:track:3UoULw70kMsiVXxW0L3A33,https://api.spotify.com/v1/tracks/3UoULw70kMsiVXxW0L3A33,https://api.spotify.com/v1/audio-analysis/3UoULw70kMsiVXxW0L3A33,201882,4
+Chord Overstreet,Hold On,0.618,0.443,2,-9.681,1,0.0526,0.469,0,0.0829,0.167,119.949,audio_features,5vjLSffimiIP26QG5WcN2K,spotify:track:5vjLSffimiIP26QG5WcN2K,https://api.spotify.com/v1/tracks/5vjLSffimiIP26QG5WcN2K,https://api.spotify.com/v1/audio-analysis/5vjLSffimiIP26QG5WcN2K,198853,4
+Olivia Rodrigo,All I Want,0.376,0.43,0,-6.585,0,0.0328,0.0902,0,0.0912,0.129,77.599,audio_features,1v6svH1Fyx9C1nIt1mA2DT,spotify:track:1v6svH1Fyx9C1nIt1mA2DT,https://api.spotify.com/v1/tracks/1v6svH1Fyx9C1nIt1mA2DT,https://api.spotify.com/v1/audio-analysis/1v6svH1Fyx9C1nIt1mA2DT,177323,3
+ZAYN,Dusk Till Dawn (feat. Sia) - Radio Edit,0.259,0.437,11,-6.589,0,0.0386,0.102,1.32e-06,0.106,0.0951,180.042,audio_features,3e7sxremeOE3wTySiOhGiP,spotify:track:3e7sxremeOE3wTySiOhGiP,https://api.spotify.com/v1/tracks/3e7sxremeOE3wTySiOhGiP,https://api.spotify.com/v1/audio-analysis/3e7sxremeOE3wTySiOhGiP,239000,4
+Charlie Puth,Attention,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,audio_features,5cF0dROlMOK5uNZtivgu50,spotify:track:5cF0dROlMOK5uNZtivgu50,https://api.spotify.com/v1/tracks/5cF0dROlMOK5uNZtivgu50,https://api.spotify.com/v1/audio-analysis/5cF0dROlMOK5uNZtivgu50,208787,4
+Rich,Better Now - Stripped,0.257,0.281,9,-11.838,1,0.0327,0.855,0,0.12,0.232,164.495,audio_features,6cx0fnVtaD9eIrpSxdDzsg,spotify:track:6cx0fnVtaD9eIrpSxdDzsg,https://api.spotify.com/v1/tracks/6cx0fnVtaD9eIrpSxdDzsg,https://api.spotify.com/v1/audio-analysis/6cx0fnVtaD9eIrpSxdDzsg,118554,4
+Avalon Kane,Rescue,0.188,0.213,0,-15.908,1,0.0355,0.893,0.576,0.103,0.0503,81.081,audio_features,4jtupFhZz17SvyVizQVVgl,spotify:track:4jtupFhZz17SvyVizQVVgl,https://api.spotify.com/v1/tracks/4jtupFhZz17SvyVizQVVgl,https://api.spotify.com/v1/audio-analysis/4jtupFhZz17SvyVizQVVgl,289381,4
+The Chainsmokers,Something Just Like This,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,audio_features,6RUKPb4LETWmmr3iAEQktW,spotify:track:6RUKPb4LETWmmr3iAEQktW,https://api.spotify.com/v1/tracks/6RUKPb4LETWmmr3iAEQktW,https://api.spotify.com/v1/audio-analysis/6RUKPb4LETWmmr3iAEQktW,247160,4
+Oscar Pascasio,Once Upon a Time,0.492,0.0325,5,-19.689,1,0.0377,0.985,0.935,0.106,0.571,96.019,audio_features,2ZUMPG3mbdD5EroBGjb9tf,spotify:track:2ZUMPG3mbdD5EroBGjb9tf,https://api.spotify.com/v1/tracks/2ZUMPG3mbdD5EroBGjb9tf,https://api.spotify.com/v1/audio-analysis/2ZUMPG3mbdD5EroBGjb9tf,150250,4
+Kina,Get You The Moon (feat. Snøw),0.498,0.235,1,-16.541,0,0.188,0.72,0,0.144,0.0895,118.917,audio_features,4ZLzoOkj0MPWrTLvooIuaa,spotify:track:4ZLzoOkj0MPWrTLvooIuaa,https://api.spotify.com/v1/tracks/4ZLzoOkj0MPWrTLvooIuaa,https://api.spotify.com/v1/audio-analysis/4ZLzoOkj0MPWrTLvooIuaa,179080,4
+Billie Eilish,when the party's over,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,audio_features,43zdsphuZLzwA9k4DJhU0I,spotify:track:43zdsphuZLzwA9k4DJhU0I,https://api.spotify.com/v1/tracks/43zdsphuZLzwA9k4DJhU0I,https://api.spotify.com/v1/audio-analysis/43zdsphuZLzwA9k4DJhU0I,196077,4
+Christina Perri,A Thousand Years,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,audio_features,6lanRgr6wXibZr8KgzXxBl,spotify:track:6lanRgr6wXibZr8KgzXxBl,https://api.spotify.com/v1/tracks/6lanRgr6wXibZr8KgzXxBl,https://api.spotify.com/v1/audio-analysis/6lanRgr6wXibZr8KgzXxBl,285120,3
+Ed Sheeran,Thinking out Loud,0.781,0.445,2,-6.061,1,0.0295,0.474,0,0.184,0.591,78.998,audio_features,34gCuhDGsG4bRPIf9bb02f,spotify:track:34gCuhDGsG4bRPIf9bb02f,https://api.spotify.com/v1/tracks/34gCuhDGsG4bRPIf9bb02f,https://api.spotify.com/v1/audio-analysis/34gCuhDGsG4bRPIf9bb02f,281560,4
+Sam Smith,Stay With Me,0.418,0.42,0,-6.444,1,0.0414,0.588,6.39e-05,0.11,0.184,84.094,audio_features,5Nm9ERjJZ5oyfXZTECKmRt,spotify:track:5Nm9ERjJZ5oyfXZTECKmRt,https://api.spotify.com/v1/tracks/5Nm9ERjJZ5oyfXZTECKmRt,https://api.spotify.com/v1/audio-analysis/5Nm9ERjJZ5oyfXZTECKmRt,172724,4
+Natalie Taylor,Surrender,0.39,0.448,5,-8.57,0,0.0276,0.8,0.182,0.107,0.077,144.89,audio_features,0ecC8p17cDNlxHXkuYqeR6,spotify:track:0ecC8p17cDNlxHXkuYqeR6,https://api.spotify.com/v1/tracks/0ecC8p17cDNlxHXkuYqeR6,https://api.spotify.com/v1/audio-analysis/0ecC8p17cDNlxHXkuYqeR6,183103,5
+Sam Smith,I'm Not The Only One,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,audio_features,7795WJLVKJoAyVoOtCWqXN,spotify:track:7795WJLVKJoAyVoOtCWqXN,https://api.spotify.com/v1/tracks/7795WJLVKJoAyVoOtCWqXN,https://api.spotify.com/v1/audio-analysis/7795WJLVKJoAyVoOtCWqXN,239317,4
+Hanne Leland,It's Your Eyes I See,0.275,0.49,7,-10.063,1,0.146,0.692,2.3e-06,0.112,0.351,65.219,audio_features,2kiOKBHWg3QqBjjI8DeMgx,spotify:track:2kiOKBHWg3QqBjjI8DeMgx,https://api.spotify.com/v1/tracks/2kiOKBHWg3QqBjjI8DeMgx,https://api.spotify.com/v1/audio-analysis/2kiOKBHWg3QqBjjI8DeMgx,259876,3
+Matt Saxton,It's Alright,0.584,0.226,0,-13.08,1,0.04,0.89,0.0547,0.132,0.126,112.717,audio_features,31wkbFSsbeJAHSxTi5hLwf,spotify:track:31wkbFSsbeJAHSxTi5hLwf,https://api.spotify.com/v1/tracks/31wkbFSsbeJAHSxTi5hLwf,https://api.spotify.com/v1/audio-analysis/31wkbFSsbeJAHSxTi5hLwf,225851,4
+Summerdrive,Be The Change - Acoustic,0.271,0.469,5,-10.534,1,0.0334,0.807,1.3e-05,0.0755,0.273,140.076,audio_features,7fhSyrI6quCZl7O3fLwOCh,spotify:track:7fhSyrI6quCZl7O3fLwOCh,https://api.spotify.com/v1/tracks/7fhSyrI6quCZl7O3fLwOCh,https://api.spotify.com/v1/audio-analysis/7fhSyrI6quCZl7O3fLwOCh,232071,4
+HEIGHTS,If You Notice,0.419,0.134,1,-14.744,1,0.0335,0.973,0.000613,0.078,0.134,149.845,audio_features,4qnMI0pAsyDnTFkb9ujg4R,spotify:track:4qnMI0pAsyDnTFkb9ujg4R,https://api.spotify.com/v1/tracks/4qnMI0pAsyDnTFkb9ujg4R,https://api.spotify.com/v1/audio-analysis/4qnMI0pAsyDnTFkb9ujg4R,216000,3
+Summerdrive,"It's Alright, Let Me Go",0.351,0.531,8,-7.302,1,0.0298,0.0481,0.000592,0.515,0.122,75.598,audio_features,3uaCE6HUobm8irCzzoMeMB,spotify:track:3uaCE6HUobm8irCzzoMeMB,https://api.spotify.com/v1/tracks/3uaCE6HUobm8irCzzoMeMB,https://api.spotify.com/v1/audio-analysis/3uaCE6HUobm8irCzzoMeMB,230947,4
+Zada Records,Smile,0.328,0.404,6,-8.884,0,0.0318,0.854,0,0.317,0.143,79.444,audio_features,0kjS2ckBUkv1HW3QZj6Ohl,spotify:track:0kjS2ckBUkv1HW3QZj6Ohl,https://api.spotify.com/v1/tracks/0kjS2ckBUkv1HW3QZj6Ohl,https://api.spotify.com/v1/audio-analysis/0kjS2ckBUkv1HW3QZj6Ohl,174630,4
+ANDRO,New Home,0.444,0.316,1,-8.276,1,0.04,0.58,0,0.102,0.0563,119.692,audio_features,5t15AbfWMtvmwYakd0nJWV,spotify:track:5t15AbfWMtvmwYakd0nJWV,https://api.spotify.com/v1/tracks/5t15AbfWMtvmwYakd0nJWV,https://api.spotify.com/v1/audio-analysis/5t15AbfWMtvmwYakd0nJWV,248355,4
+Cristian Vivaldi,Midnight Sky,0.438,0.00858,10,-29.654,1,0.0652,0.994,0.947,0.109,0.067,77.012,audio_features,5V1QPY0ZpgScHShe0Eaj8C,spotify:track:5V1QPY0ZpgScHShe0Eaj8C,https://api.spotify.com/v1/tracks/5V1QPY0ZpgScHShe0Eaj8C,https://api.spotify.com/v1/audio-analysis/5V1QPY0ZpgScHShe0Eaj8C,113000,4
+Mikael Belkher,Come over,0.637,0.26,0,-13.747,1,0.0308,0.848,0.0156,0.0983,0.362,96.938,audio_features,2fizZG9sObrCOg0ASnVQrq,spotify:track:2fizZG9sObrCOg0ASnVQrq,https://api.spotify.com/v1/tracks/2fizZG9sObrCOg0ASnVQrq,https://api.spotify.com/v1/audio-analysis/2fizZG9sObrCOg0ASnVQrq,150928,4
+eliii,hold me,0.414,0.311,7,-9.625,1,0.0269,0.942,0.376,0.182,0.0735,96.692,audio_features,664vzjwweO1negqze3TKoD,spotify:track:664vzjwweO1negqze3TKoD,https://api.spotify.com/v1/tracks/664vzjwweO1negqze3TKoD,https://api.spotify.com/v1/audio-analysis/664vzjwweO1negqze3TKoD,108866,4
+Bastoos,The Emperor - Acoustic Version,0.595,0.412,4,-5.757,0,0.0281,0.706,0,0.12,0.255,119.972,audio_features,1WHNxbMQAqYNwAQDL4HWLm,spotify:track:1WHNxbMQAqYNwAQDL4HWLm,https://api.spotify.com/v1/tracks/1WHNxbMQAqYNwAQDL4HWLm,https://api.spotify.com/v1/audio-analysis/1WHNxbMQAqYNwAQDL4HWLm,200000,4
+Rich,Over,0.548,0.59,0,-10.191,1,0.0339,0.496,0.269,0.0979,0.21,132.022,audio_features,3nPgDNXufSJKAgML1ZGz0L,spotify:track:3nPgDNXufSJKAgML1ZGz0L,https://api.spotify.com/v1/tracks/3nPgDNXufSJKAgML1ZGz0L,https://api.spotify.com/v1/audio-analysis/3nPgDNXufSJKAgML1ZGz0L,213636,4
+Boyce Avenue,We Can't Stop,0.705,0.347,2,-8.249,1,0.0301,0.674,0,0.12,0.36,80.057,audio_features,6owKuyHxUqidcAA6fPKSyy,spotify:track:6owKuyHxUqidcAA6fPKSyy,https://api.spotify.com/v1/tracks/6owKuyHxUqidcAA6fPKSyy,https://api.spotify.com/v1/audio-analysis/6owKuyHxUqidcAA6fPKSyy,222146,4
+Jason Mraz,I'm Yours,0.693,0.43,11,-9.395,1,0.0442,0.565,0,0.0928,0.731,151.001,audio_features,03yc0G2OoH1Eeyu7Piy8fK,spotify:track:03yc0G2OoH1Eeyu7Piy8fK,https://api.spotify.com/v1/tracks/03yc0G2OoH1Eeyu7Piy8fK,https://api.spotify.com/v1/audio-analysis/03yc0G2OoH1Eeyu7Piy8fK,243494,4
+Edith Whiskers,Home,0.725,0.199,2,-12.478,1,0.0357,0.982,0.00395,0.1,0.264,120.031,audio_features,2qPSa6HXjzwa9sLhNGpA1T,spotify:track:2qPSa6HXjzwa9sLhNGpA1T,https://api.spotify.com/v1/tracks/2qPSa6HXjzwa9sLhNGpA1T,https://api.spotify.com/v1/audio-analysis/2qPSa6HXjzwa9sLhNGpA1T,195359,4
+Labrinth,Never Felt So Alone,0.436,0.409,5,-4.438,1,0.0533,0.499,0.000166,0.38,0.363,98.357,audio_features,2NbsBSshscKIPRG3kwBbfo,spotify:track:2NbsBSshscKIPRG3kwBbfo,https://api.spotify.com/v1/tracks/2NbsBSshscKIPRG3kwBbfo,https://api.spotify.com/v1/audio-analysis/2NbsBSshscKIPRG3kwBbfo,160166,3
+Daniel Caesar,Best Part (feat. H.E.R.),0.524,0.364,7,-10.209,1,0.0367,0.808,0,0.1,0.436,75.24,audio_features,1RMJOxR6GRPsBHL8qeC2ux,spotify:track:1RMJOxR6GRPsBHL8qeC2ux,https://api.spotify.com/v1/tracks/1RMJOxR6GRPsBHL8qeC2ux,https://api.spotify.com/v1/audio-analysis/1RMJOxR6GRPsBHL8qeC2ux,209831,4
+Elvis Presley,Can't Help Falling in Love,0.396,0.293,2,-14.062,1,0.0275,0.941,0.000196,0.105,0.343,100.307,audio_features,44AyOl4qVkzS48vBsbNXaC,spotify:track:44AyOl4qVkzS48vBsbNXaC,https://api.spotify.com/v1/tracks/44AyOl4qVkzS48vBsbNXaC,https://api.spotify.com/v1/audio-analysis/44AyOl4qVkzS48vBsbNXaC,182360,3
+Whitney Houston,I Will Always Love You,0.332,0.214,4,-12.518,1,0.0349,0.845,5.62e-06,0.0839,0.11,67.531,audio_features,4eHbdreAnSOrDDsFfc4Fpm,spotify:track:4eHbdreAnSOrDDsFfc4Fpm,https://api.spotify.com/v1/tracks/4eHbdreAnSOrDDsFfc4Fpm,https://api.spotify.com/v1/audio-analysis/4eHbdreAnSOrDDsFfc4Fpm,271093,4
+Jason Mraz,93 Million Miles,0.572,0.454,3,-10.286,1,0.0258,0.477,1.37e-05,0.0974,0.515,140.182,audio_features,38jy6kRlPt8z1GUS9WXeNh,spotify:track:38jy6kRlPt8z1GUS9WXeNh,https://api.spotify.com/v1/tracks/38jy6kRlPt8z1GUS9WXeNh,https://api.spotify.com/v1/audio-analysis/38jy6kRlPt8z1GUS9WXeNh,216387,4
+Sebastian Yatra,My Only One (No Hay Nadie Más),0.727,0.526,6,-6.307,1,0.0378,0.693,0,0.116,0.681,105.086,audio_features,1gJA27xiMdENwoAVN7kMlo,spotify:track:1gJA27xiMdENwoAVN7kMlo,https://api.spotify.com/v1/tracks/1gJA27xiMdENwoAVN7kMlo,https://api.spotify.com/v1/audio-analysis/1gJA27xiMdENwoAVN7kMlo,198280,4
+Ed Sheeran,Afterglow,0.641,0.324,11,-5.851,1,0.0299,0.698,0,0.328,0.273,110.184,audio_features,0E4Y1XIbs8GrAT1YqVy6dq,spotify:track:0E4Y1XIbs8GrAT1YqVy6dq,https://api.spotify.com/v1/tracks/0E4Y1XIbs8GrAT1YqVy6dq,https://api.spotify.com/v1/audio-analysis/0E4Y1XIbs8GrAT1YqVy6dq,185487,4
+Jason Mraz,Lucky,0.625,0.414,0,-8.7,1,0.0369,0.294,0,0.151,0.669,130.088,audio_features,0IktbUcnAGrvD03AWnz3Q8,spotify:track:0IktbUcnAGrvD03AWnz3Q8,https://api.spotify.com/v1/tracks/0IktbUcnAGrvD03AWnz3Q8,https://api.spotify.com/v1/audio-analysis/0IktbUcnAGrvD03AWnz3Q8,189613,4
+Labrinth,Still Don't Know My Name,0.316,0.63,5,-5.963,1,0.117,0.471,0.262,0.205,0.313,89.643,audio_features,6N22FZs2ZhPBYi3b9XPajV,spotify:track:6N22FZs2ZhPBYi3b9XPajV,https://api.spotify.com/v1/tracks/6N22FZs2ZhPBYi3b9XPajV,https://api.spotify.com/v1/audio-analysis/6N22FZs2ZhPBYi3b9XPajV,153294,1
+Vance Joy,Riptide,0.484,0.731,1,-6.694,1,0.0379,0.431,0,0.151,0.51,101.654,audio_features,3JvrhDOgAt6p7K8mDyZwRd,spotify:track:3JvrhDOgAt6p7K8mDyZwRd,https://api.spotify.com/v1/tracks/3JvrhDOgAt6p7K8mDyZwRd,https://api.spotify.com/v1/audio-analysis/3JvrhDOgAt6p7K8mDyZwRd,204280,4
+sssense,run away,0.771,0.0939,6,-21.372,0,0.104,0.954,0.835,0.113,0.273,124.032,audio_features,2wHJon6xK46LfWhq1IWwjw,spotify:track:2wHJon6xK46LfWhq1IWwjw,https://api.spotify.com/v1/tracks/2wHJon6xK46LfWhq1IWwjw,https://api.spotify.com/v1/audio-analysis/2wHJon6xK46LfWhq1IWwjw,126840,4
+golden dust,not for me,0.714,0.0688,3,-19.595,0,0.07,0.914,0.915,0.116,0.172,113.018,audio_features,4KJPNodeXBtHgRTDzL7KEi,spotify:track:4KJPNodeXBtHgRTDzL7KEi,https://api.spotify.com/v1/tracks/4KJPNodeXBtHgRTDzL7KEi,https://api.spotify.com/v1/audio-analysis/4KJPNodeXBtHgRTDzL7KEi,122655,4
+neeto,please come back,0.724,0.0723,6,-18.361,1,0.267,0.682,0.406,0.0984,0.396,120.032,audio_features,5D1VyZ3d50x6kimpE5cN3n,spotify:track:5D1VyZ3d50x6kimpE5cN3n,https://api.spotify.com/v1/tracks/5D1VyZ3d50x6kimpE5cN3n,https://api.spotify.com/v1/audio-analysis/5D1VyZ3d50x6kimpE5cN3n,128000,5
+Bruno Mars,Count on Me,0.589,0.389,0,-5.972,1,0.028,0.851,0,0.0772,0.501,89.1,audio_features,3B5UbSndRz907IZhhmUfLi,spotify:track:3B5UbSndRz907IZhhmUfLi,https://api.spotify.com/v1/tracks/3B5UbSndRz907IZhhmUfLi,https://api.spotify.com/v1/audio-analysis/3B5UbSndRz907IZhhmUfLi,197470,4
+Radical Face,"Welcome Home, Son",0.587,0.497,6,-10.757,1,0.0307,0.723,0.782,0.142,0.401,144.972,audio_features,6HTVZeVQ9J6Uiq6tHESxU9,spotify:track:6HTVZeVQ9J6Uiq6tHESxU9,https://api.spotify.com/v1/tracks/6HTVZeVQ9J6Uiq6tHESxU9,https://api.spotify.com/v1/audio-analysis/6HTVZeVQ9J6Uiq6tHESxU9,287634,3
+Jason Mraz,I Won't Give Up,0.483,0.303,4,-10.058,1,0.0429,0.694,0,0.115,0.139,133.406,audio_features,5ivF4eQBqJiVL5IAE9jRyl,spotify:track:5ivF4eQBqJiVL5IAE9jRyl,https://api.spotify.com/v1/tracks/5ivF4eQBqJiVL5IAE9jRyl,https://api.spotify.com/v1/audio-analysis/5ivF4eQBqJiVL5IAE9jRyl,240166,3
+Harry Styles,Falling,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,audio_features,1ZMiCix7XSAbfAJlEZWMCp,spotify:track:1ZMiCix7XSAbfAJlEZWMCp,https://api.spotify.com/v1/tracks/1ZMiCix7XSAbfAJlEZWMCp,https://api.spotify.com/v1/audio-analysis/1ZMiCix7XSAbfAJlEZWMCp,240133,4
+Marilyn Hucek,Vulnerable,0.598,0.183,9,-13.487,1,0.0304,0.535,6.24e-05,0.129,0.0796,137.035,audio_features,1MHb9ROmrgyGvPXx68i04u,spotify:track:1MHb9ROmrgyGvPXx68i04u,https://api.spotify.com/v1/tracks/1MHb9ROmrgyGvPXx68i04u,https://api.spotify.com/v1/audio-analysis/1MHb9ROmrgyGvPXx68i04u,155146,4
+Mikael Belkher,Summerfling,0.772,0.331,4,-11.137,0,0.0512,0.739,0,0.116,0.179,118.991,audio_features,6m7duaJDVdWtZ8kHJpE3Ms,spotify:track:6m7duaJDVdWtZ8kHJpE3Ms,https://api.spotify.com/v1/tracks/6m7duaJDVdWtZ8kHJpE3Ms,https://api.spotify.com/v1/audio-analysis/6m7duaJDVdWtZ8kHJpE3Ms,181523,4
+Kina,Can We Kiss Forever?,0.522,0.128,4,-18.717,1,0.0357,0.894,0.026,0.0941,0.124,109.986,audio_features,58wyJLv6yH1La9NIZPl3ne,spotify:track:58wyJLv6yH1La9NIZPl3ne,https://api.spotify.com/v1/tracks/58wyJLv6yH1La9NIZPl3ne,https://api.spotify.com/v1/audio-analysis/58wyJLv6yH1La9NIZPl3ne,187932,4
+Beyoncé,Halo,0.508,0.72,11,-5.908,0,0.0628,0.272,0,0.0563,0.472,79.983,audio_features,4JehYebiI9JE8sR8MisGVb,spotify:track:4JehYebiI9JE8sR8MisGVb,https://api.spotify.com/v1/tracks/4JehYebiI9JE8sR8MisGVb,https://api.spotify.com/v1/audio-analysis/4JehYebiI9JE8sR8MisGVb,261640,4
+C418,Minecraft,0.206,0.0154,1,-22.923,1,0.0426,0.98,0.636,0.0662,0.116,83.68,audio_features,6xwhCiWXREsAIQVZqHswVw,spotify:track:6xwhCiWXREsAIQVZqHswVw,https://api.spotify.com/v1/tracks/6xwhCiWXREsAIQVZqHswVw,https://api.spotify.com/v1/audio-analysis/6xwhCiWXREsAIQVZqHswVw,254000,3
+Wiz Khalifa,See You Again (feat. Charlie Puth),0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,audio_features,2JzZzZUQj3Qff7wapcbKjc,spotify:track:2JzZzZUQj3Qff7wapcbKjc,https://api.spotify.com/v1/tracks/2JzZzZUQj3Qff7wapcbKjc,https://api.spotify.com/v1/audio-analysis/2JzZzZUQj3Qff7wapcbKjc,229526,4
+Alan Walker,Faded,0.468,0.627,6,-5.085,1,0.0476,0.0281,7.97e-06,0.11,0.159,179.642,audio_features,698ItKASDavgwZ3WjaWjtz,spotify:track:698ItKASDavgwZ3WjaWjtz,https://api.spotify.com/v1/tracks/698ItKASDavgwZ3WjaWjtz,https://api.spotify.com/v1/audio-analysis/698ItKASDavgwZ3WjaWjtz,212107,4
+Lukas Graham,7 Years,0.765,0.473,10,-5.829,1,0.0514,0.287,0,0.391,0.34,119.992,audio_features,5kqIPrATaCc2LqxVWzQGbk,spotify:track:5kqIPrATaCc2LqxVWzQGbk,https://api.spotify.com/v1/tracks/5kqIPrATaCc2LqxVWzQGbk,https://api.spotify.com/v1/audio-analysis/5kqIPrATaCc2LqxVWzQGbk,237300,4
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
