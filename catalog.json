@@ -1,14 +1,14 @@
 [
   {
-    "id": "aaaaaaaa",
-    "name": "b",
+    "id": "id",
+    "name": "helloworld",
     "description": "Sd",
-    "html_url": "ssssss",
+    "html_url": "https://github.com/pedroalmd/public-repo/tree/main/simple-hello-world-example",
     "zip_url": "https://github.com/pedroalmd/public-repo/raw/main/simple-hello-world-example.zip",
-    "readme_url": "ss",
-    "main_blueprint": "d.yaml",
-    "image_url": "f",
-    "created_at": "2f",
-    "updated_at": "e"
+    "readme_url": "https://raw.githubusercontent.com/pedroalmd/public-repo/main/simple-hello-world-example/README.md",
+    "main_blueprint": "blueprint.yaml",
+    "image_url": "https://raw.githubusercontent.com/pedroalmd/public-repo/main/simple-hello-world-example/logo.png",
+    "created_at": "2023-05-30T11:13:02Z",
+    "updated_at": "2023-05-30T11:13:02Z"
   }
 ]
